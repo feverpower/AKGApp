@@ -1,2 +1,0 @@
-# AKGApp
-Created with CodeSandbox
